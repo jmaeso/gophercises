@@ -1,0 +1,12 @@
+{
+    "shortened_urls":[
+        {
+            "path": "/jmaeso",
+            "url": "http://jmaeso.com"
+        },
+        {
+            "path": "/github",
+            "url": "https://github.com/jmaeso"
+        }
+    ]
+}
